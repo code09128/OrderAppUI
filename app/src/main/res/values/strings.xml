@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+    <string name="order_eat"><![CDATA[Order & Eat]]></string>
+</resources>
